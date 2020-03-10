@@ -10,5 +10,5 @@ Make sure you have spi setup.
 https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md
 Time to run
 ``` python
-python 3 main.py
+python3 main.py
 ```
